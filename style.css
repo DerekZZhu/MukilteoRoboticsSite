@@ -1,0 +1,48 @@
+body {
+    background-color: #7a7979;
+}
+
+.welcome_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.orange {
+    color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.first_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #f0f0f0;
+    padding-bottom: 100px;
+}
+
+h1.about_us {
+    color: #626262;
+    font-family: "Roboto", sans-serif;
+    line-height: 30px;
+}
+
+p.about_us {
+    color: #626262;
+    font-family: "Roboto", sans-serif;
+    line-height: 30px;
+    width: 80%
+}
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.team_pic{
+    height:40%;
+    width: 40%;
+}
