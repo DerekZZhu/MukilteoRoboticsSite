@@ -3,14 +3,6 @@ h1 {
     font-size: 3rem;
 }
 
-h2 {
-
-}
-
-h3 {
-
-}
-
 #navbarSec {
     background-color: #6699cc; 
 }
@@ -76,7 +68,7 @@ h3 {
 }
 
 .icon:hover{
-    color: #ff758f;
+    color: #ffbf69;
 }
 
 .welcome {
