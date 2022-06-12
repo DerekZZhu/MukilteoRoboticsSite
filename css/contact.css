@@ -1,0 +1,47 @@
+#get-in-contact {
+    text-align: center;
+    color: white;
+    background-color: #6699cc; 
+    padding: 50px;
+    
+}
+
+#important-information {
+    text-align: center;
+    padding: 50px;
+}
+
+#application-form {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    background-color: #6699cc; 
+}
+
+/* Navbar */
+#navbarSec {
+    background-color: #6699cc; 
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.nav-link {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+    margin: 15px;
+}
+
+.nav-link:hover {
+    color: #ffbf69;
+}
+
+.navbar-brand:hover {
+    color: #ffbf69;
+}

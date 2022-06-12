@@ -12,11 +12,11 @@ h3 {
 }
 
 #navbarSec {
-    background-color: #da1e37; 
+    background-color: #6699cc; 
 }
 
 #introduction{
-    background-color: #da1e37;   
+    background-color: #6699cc;   
     font-family: 'Roboto';
     line-height: 2.5;
     padding: 50px;
@@ -26,6 +26,10 @@ h3 {
 #the-team {
     text-align: center;
     margin: 30px;
+}
+
+#board-members {
+    text-align: center;
 }
 
 /* Images */
@@ -54,6 +58,10 @@ h3 {
     color: #ffbf69;
 }
 
+.navbar-brand:hover {
+    color: #ffbf69;
+}
+
 /* Alignment */
 .center {
     text-align: center;
@@ -64,11 +72,11 @@ h3 {
 .icon {
     font-size: 2rem;
     margin-right: 20px;
-    color: #da1e37;
+    color: #6699cc;
 }
 
 .icon:hover{
-    color: #2ec4b6;
+    color: #ff758f;
 }
 
 .welcome {
