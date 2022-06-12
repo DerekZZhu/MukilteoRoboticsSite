@@ -1,17 +1,81 @@
+h1 {
+    font-family: 'Roboto';
+    font-size: 3rem;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+#navbarSec {
+    background-color: #da1e37; 
+}
+
 #introduction{
-    background-color: #ff9f1c;   
+    background-color: #da1e37;   
     font-family: 'Roboto';
     line-height: 2.5;
+    padding: 50px;
+    color: white;
+}
+
+#the-team {
+    text-align: center;
+    margin: 30px;
+}
+
+/* Images */
+.img {
+    width: 540px;
+    height: auto;
 }
 
 /* Navbar */
-#navbarSec {
-    background-color: #ff9f1c; 
-}
-
 .navbar-brand {
     font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 2.5rem;
     color: white;
+}
+
+.nav-link {
+    font-family: 'Ubuntu';
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+    margin: 15px;
+}
+
+.nav-link:hover {
+    color: #ffbf69;
+}
+
+/* Alignment */
+.center {
+    text-align: center;
+    padding: 100px;
+}
+
+/* Icon */
+.icon {
+    font-size: 2rem;
+    margin-right: 20px;
+    color: #da1e37;
+}
+
+.icon:hover{
+    color: #2ec4b6;
+}
+
+.welcome {
+    padding: 0px 30%;
+    margin: 25px;
+}
+
+.roles {
+ margin-top: 50px;
 }
