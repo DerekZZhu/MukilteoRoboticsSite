@@ -1,3 +1,7 @@
+p {
+    font-size: 1.25rem;
+    padding: 0px 250px;
+}
 /* Navbar */
 #navbarSec {
     background-color: #6699cc; 
@@ -24,4 +28,16 @@
 
 .navbar-brand:hover {
     color: #ffbf69;
+}
+
+#sponsor-us {
+    text-align: center;
+    padding: 50px;
+    background-color: #6699cc; 
+    color: white;
+}
+
+img {
+    float: left;
+    
 }
