@@ -1,6 +1,6 @@
 p {
     font-size: 1.25rem;
-    padding: 0px 250px;
+    padding: 0px 350px;
 }
 /* Navbar */
 #navbarSec {
@@ -37,7 +37,12 @@ p {
     color: white;
 }
 
-img {
-    float: left;
-    
+#sponsor-list {
+    padding: 50px;
+    text-align: center;
+}
+
+
+.thanks {
+    padding: 0px auto;
 }
