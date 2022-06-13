@@ -1,3 +1,7 @@
+h2 {
+    padding-bottom: 30px;
+}
+
 #get-in-contact {
     text-align: center;
     color: white;
@@ -40,7 +44,7 @@
 
 .nav-link:hover {
     color: #ffbf69;
-}
+} 
 
 .navbar-brand:hover {
     color: #ffbf69;
