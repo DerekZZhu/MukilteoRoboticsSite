@@ -1,2 +1,6 @@
 # MukilteoRoboticsSite
- Written in vanilla HTML and CSS, will transition to tailwind later LOL
+A landing site for the Mukilteo Robotics Team 44244
+
+## TODO
+Inset media queries
+Add Media
