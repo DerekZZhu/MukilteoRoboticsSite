@@ -1,45 +1,46 @@
 h1 {
     font-family: 'Roboto';
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
-#navbarSec {
+#navb {
     background-color: #6699cc; 
 }
 
-#introduction{
+#intro {
     background-color: #6699cc;   
     font-family: 'Roboto';
     line-height: 2.5;
-    padding: 50px;
     color: white;
+    padding: 3%;
 }
 
-#the-team {
-    text-align: center;
-    margin: 30px;
+#about {
+    padding: 5% 7%;
 }
 
-#board-members {
+#board {
     text-align: center;
 }
 
 /* Images */
-.img {
-    width: 540px;
+img {
+    border-radius: 11px;
+    width: 270px;
     height: auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 /* Navbar */
 .navbar-brand {
-    font-family: 'Ubuntu';
     font-weight: bold;
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: white;
 }
 
 .nav-link {
-    font-family: 'Ubuntu';
     font-weight: bold;
     font-size: 1.5rem;
     color: white;
@@ -54,11 +55,6 @@ h1 {
     color: #ffbf69;
 }
 
-/* Alignment */
-.center {
-    text-align: center;
-    padding: 100px;
-}
 
 /* Icon */
 .icon {
@@ -71,11 +67,19 @@ h1 {
     color: #ffbf69;
 }
 
-.welcome {
-    padding: 0px 30%;
-    margin: 25px;
+.roles {
+    margin-top: 50px;
 }
 
-.roles {
- margin-top: 50px;
+@media (min-width: 769px) {
+    /* Images */
+    img {
+        width: 608px;
+        height: auto;
+        float: right;
+    }
+}
+
+@media (max-width: 1024px) {
+
 }

@@ -49,3 +49,25 @@ h2 {
 .navbar-brand:hover {
     color: #ffbf69;
 }
+
+.calender {
+    width:200px;
+    height:150px;
+}
+
+@media (min-width: 769px) {
+    .calender {
+        width:400px;
+        height:300px;
+    }
+
+    .map {
+        width:600px; 
+        height:450px;
+    }
+
+    .form {
+        width:640px;
+        height:1290px
+    }
+}
